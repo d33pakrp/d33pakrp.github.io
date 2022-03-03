@@ -1,6 +1,0 @@
-*{
-	margin:0;
-	pading:0;
-	box-sixing: border-box;
-
-}
